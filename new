@@ -1,0 +1,3 @@
+mkdir  git_data_science_1402
+cd git_data_science_1402 
+git status
